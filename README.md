@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-✅ User can enter the number of people the bill should be split across and see the split per person.
+✅ User can change the number of people using a stepper control for the bill should be split across and see the split per person.
 
 ## Video Walkthrough
 
