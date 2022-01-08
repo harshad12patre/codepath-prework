@@ -19,19 +19,10 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        overrideUserInterfaceStyle = .dark
+        overrideUserInterfaceStyle = .light
         self.title = ""
         self.billAmountTextField.becomeFirstResponder()
         self.billAmountTextField.delegate = self
-    }
-
-    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
-            self.view.endEditing(true)
-            return false
-    }
-    
-    func reset(_ sender: Any) {
-        
     }
 
     @IBAction func calculateTip_slider(_ sender: Any) {
