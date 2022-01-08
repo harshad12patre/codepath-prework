@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='tipsandsplits.GIF' title='App Video Walkthrough' width='200' alt='App Video Walkthrough' />
+<img src='tipsandsplits.gif' title='App Video Walkthrough' width='200' alt='App Video Walkthrough' />
 
 ## Notes
 
